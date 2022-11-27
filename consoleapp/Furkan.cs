@@ -13,6 +13,9 @@ namespace consoleapp
         {
             Console.WriteLine("hasan 3");
         }
-
+        public void yuru()
+        {
+            Console.WriteLine("yürüldü");
+        }
     }
 }

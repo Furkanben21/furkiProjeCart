@@ -11,11 +11,15 @@ namespace consoleapp
 
         public Furkan()
         {
-            Console.WriteLine("hasan 31");
+            Console.WriteLine("furkan 2");
         }
         public void yuru()
         {
             Console.WriteLine("yürüldü");
+        }
+        public void kos()
+        {
+            Console.WriteLine("koss");
         }
     }
 }

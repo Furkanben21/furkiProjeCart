@@ -13,6 +13,8 @@ namespace consoleapp
 
             Console.WriteLine("Naber lan deneme github");
 
+            Furkan furkan = new Furkan();
+
             Console.ReadLine();
 
         }

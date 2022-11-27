@@ -16,6 +16,7 @@ namespace consoleapp
             Furkan furkan = new Furkan();
 
             Console.WriteLine("furkan naber lan");
+            Console.WriteLine("furkan naber lan 2");
 
             Console.ReadLine();
 

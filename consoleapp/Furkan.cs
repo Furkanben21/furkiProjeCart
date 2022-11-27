@@ -11,7 +11,7 @@ namespace consoleapp
 
         public Furkan()
         {
-            Console.WriteLine("hasan 3");
+            Console.WriteLine("hasan 31");
         }
         public void yuru()
         {
